@@ -3,7 +3,7 @@
   "daistats.auto_updating": "Rafraichissement automatique",
   "daistats.block": "Bloc",
   "daistats.collat_ratio": "Niveau de garantie",
-  "daistats.dai_brewing": "Dai infusé",
+  "daistats.dai_brewing": "Dai infusés",
   "daistats.dai_from_token": "Dai générés à partir de %{token}",
   "daistats.dai_in_dsr": "Dai en DSR",
   "daistats.dai_savings_rate": "Taux d'épargne dai (DSR)",
