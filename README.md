@@ -8,7 +8,11 @@
 
 ### How to use
 
-Go to https://github.com/nanexcool/defi18n
+Go to [https://github.com/nanexcool/defi18n](https://github.com/nanexcool/defi18n)
+
+Copy what you need from the `en` or `es` folders
+
+Use your favorite i18n tool to manage the translation strings
 
 Currently there's English and Spanish files for:
 
