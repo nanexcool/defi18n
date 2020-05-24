@@ -6,13 +6,17 @@
 
 ## An attempt at bringing Decentralized Finance to everyone.
 
+## What is it
+
+A collection of translation strings that you can use freely on your project or dapp so that more people can be exposed to the world of Ethereum and Decentralized Finance.
+
 ### How to use
 
 Go to [https://github.com/nanexcool/defi18n](https://github.com/nanexcool/defi18n)
 
-Copy what you need from the `en` or `es` folders
+Copy what you need from the `en` and `es` folders (more to come I hope!)
 
-Use your favorite i18n tool to manage the translation strings
+Use your favorite i18n tool to manage the translation strings.
 
 Currently there's English and Spanish files for:
 
