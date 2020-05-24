@@ -1,0 +1,21 @@
+{
+  "general.auction": "Subasta",
+  "general.block": "Bloque",
+  "general.date": "Fecha",
+  "general.debt": "Deuda",
+  "general.defi": "Finanzas Descentralizadas",
+  "general.hello": "Hola",
+  "general.network": "Red",
+  "general.password": "Contraseña",
+  "general.pause": "Pausa",
+  "general.price": "Precio",
+  "general.ratio": "Proporción",
+  "general.restart": "Reiniciar",
+  "general.stablecoin": "Moneda Estable",
+  "general.supply": "Suministro",
+  "general.synchronizing": "Sincronizando",
+  "general.total": "Total",
+  "general.update": "Actualizar",
+  "general.user": "Usuario",
+  "general.wallet": "Billetera"
+}

@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Colateral",
+  "maker.debt_ceiling": "Techo de Deuda",
+  "maker.liquidation_ratio": "Proporción de Liquidación",
+  "maker.penalty": "Penalización",
+  "maker.vault": "Bóveda"
+}

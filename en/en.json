@@ -1,0 +1,21 @@
+{
+  "general.auction": "Auction",
+  "general.block": "Block",
+  "general.date": "Date",
+  "general.debt": "Debt",
+  "general.defi": "Decentralized Finance",
+  "general.hello": "Hello",
+  "general.network": "Network",
+  "general.password": "Password",
+  "general.pause": "Pause",
+  "general.price": "Price",
+  "general.ratio": "Ratio",
+  "general.restart": "Restart",
+  "general.stablecoin": "Stablecoin",
+  "general.supply": "Supply",
+  "general.synchronizing": "Synchronizing",
+  "general.total": "Total",
+  "general.update": "Update",
+  "general.user": "User",
+  "general.wallet": "Wallet"
+}

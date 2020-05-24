@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Collateral",
+  "maker.debt_ceiling": "Debt Ceiling",
+  "maker.liquidation_ratio": "Liquidation Ratio",
+  "maker.penalty": "Penalty",
+  "maker.vault": "Vault"
+}
