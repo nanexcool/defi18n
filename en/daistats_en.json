@@ -15,6 +15,7 @@
   "daistats.initial_price": "Initial Price",
   "daistats.last_drip": "Last Drip",
   "daistats.lot": "Lot",
+  "daistats.one_sec": "One sec, fetching data from Ethereum Mainnet...",
   "daistats.next_osm_price": "Next OSM Price",
   "daistats.pause": "Pause",
   "daistats.pie_in_dsr": "Pie in DSR",

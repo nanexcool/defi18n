@@ -15,6 +15,7 @@
   "daistats.initial_price": "Precio Inicial",
   "daistats.last_drip": "Último Goteo",
   "daistats.lot": "Lote",
+  "daistats.one_sec": "Un segundo, buscando datos en la Mainnet de Ethereum...",
   "daistats.next_osm_price": "Siguiente Precio de OSM",
   "daistats.pause": "Pausar",
   "daistats.pie_in_dsr": "Pie en DSR",
