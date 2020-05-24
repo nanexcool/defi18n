@@ -22,6 +22,10 @@ Currently there's English and Spanish files for:
 
 While defi18n will never rival a professional translation service, my hope is it can provide a good enough starting point for small teams and solo devs.
 
+### Help me translate!
+
+Submit PRs if you can translate one of the files to a different language, or can add a new category.
+
 ### Todo
 
 - [ ] Translate this site obviously...
