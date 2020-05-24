@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Garantie",
+  "maker.debt_ceiling": "Plafond de dette",
+  "maker.liquidation_ratio": "Seuil de liquidation",
+  "maker.penalty": "Penalité",
+  "maker.vault": "Voûte"
+}
