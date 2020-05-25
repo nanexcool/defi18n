@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Jaminan",
+  "maker.debt_ceiling": "Plafon Hutang",
+  "maker.liquidation_ratio": "Rasio Likuidasi",
+  "maker.penalty": "Denda",
+  "maker.vault": "Vault"
+}
