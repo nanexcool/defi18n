@@ -12,13 +12,23 @@ A collection of translation strings that you can use freely on your project or d
 
 ### How to use
 
-Go to [https://github.com/nanexcool/defi18n](https://github.com/nanexcool/defi18n)
+Code is available at [https://github.com/nanexcool/defi18n](https://github.com/nanexcool/defi18n)
 
-Copy what you need from the `en` and `es` folders (more to come I hope!)
+To install on a `node` project:
+
+```
+yarn add defi18n // or npm i defi18n
+
+// require the strings according to your locale
+const locale = 'en' // there's 'en', 'es' and 'fr
+const messages = require(`defi18n/${locale}/general.json`)
+```
+
+Or copy what you need from the `en`, `es` and `fr` folders (more to come I hope!)
 
 Use your favorite i18n tool to manage the translation strings.
 
-Currently there's English and Spanish files for:
+Currently there's English, Spanish and French files for:
 
 - General
 - Dai Stats
