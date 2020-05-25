@@ -1,0 +1,22 @@
+{
+  "general.auction": "Asta",
+  "general.block": "Blocco",
+  "general.date": "Data",
+  "general.debt": "Debito",
+  "general.defi": "Finanza Decentralizzata",
+  "general.hello": "Ciao",
+  "general.network": "Rete",
+  "general.password": "Password",
+  "general.pause": "Pausa",
+  "general.price": "Prezzo",
+  "general.ratio": "Indice",
+  "general.restart": "Ripartire",
+  "general.risk": "Rischio",
+  "general.stablecoin": "Stablecoin",
+  "general.supply": "Offerta",
+  "general.synchronizing": "Sincronizzazione",
+  "general.total": "Totale",
+  "general.update": "Aggiornamento",
+  "general.user": "Utente",
+  "general.wallet": "Wallet"
+}
