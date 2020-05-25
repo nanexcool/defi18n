@@ -1,0 +1,22 @@
+{
+  "general.auction": "Lelang",
+  "general.block": "Blok",
+"general.date": "Tanggal",
+  "general.debt": "Hutang",
+  "general.defi": "Keuangan Desentral (Defi)",
+  "general.hello": "Halo",
+  "general.network": "Jaringan",
+  "general.password": "Password",
+  "general.pause": "Berhenti",
+  "general.price": "Harga",
+  "general.ratio": "Rasio",
+  "general.restart": "Mulai Lagi",
+  "general.risk": "Resiko",
+  "general.stablecoin": "Stablecoin",
+  "general.supply": "Pasokan",
+  "general.synchronizing": "Sinkronisasi",
+  "general.total": "Jumlah",
+  "general.update": "Pembaharuan",
+  "general.user": "Pengguna",
+  "general.wallet": "Wallet"
+}

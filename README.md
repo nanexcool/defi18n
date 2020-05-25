@@ -20,15 +20,15 @@ To install on a `node` project:
 yarn add defi18n // or npm i defi18n
 
 // require the strings according to your locale
-const locale = 'en' // there's 'en', 'es' and 'fr
+const locale = 'en' // there's 'en', 'es', 'fr, and 'id'
 const messages = require(`defi18n/${locale}/general.json`)
 ```
 
-Or copy what you need from the `en`, `es` and `fr` folders (more to come I hope!)
+Or copy what you need from the `en`, `es`, `fr`, and `id` folders (more to come I hope!)
 
 Use your favorite i18n tool to manage the translation strings.
 
-Currently there's English, Spanish and French files for:
+Currently there's English, Spanish, French, and Indonesian files for:
 
 - General
 - Dai Stats
