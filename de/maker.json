@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Sicherheiten",
+  "maker.debt_ceiling": "Obergrenze der Verschuldung",
+  "maker.liquidation_ratio": "Liquidationsrate",
+  "maker.penalty": "Strafzahlung",
+  "maker.vault": "Tresor"
+}
