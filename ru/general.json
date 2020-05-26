@@ -1,0 +1,22 @@
+{
+  "general.auction": "Аукцион",
+  "general.block": "Блок",
+  "general.date": "Дата",
+  "general.debt": "Долг",
+  "general.defi": "Децентрализованные Финансы",
+  "general.hello": "Привет",
+  "general.network": "Сеть",
+  "general.password": "Пароль",
+  "general.pause": "Пауза",
+  "general.price": "Цена",
+  "general.ratio": "Соотношение",
+  "general.restart": "Перезапуск",
+  "general.risk": "Риск",
+  "general.stablecoin": "Cтабильмонета",
+  "general.supply": "Поставка",
+  "general.synchronizing": "Cинхронизирующий",
+  "general.total": "Всего",
+  "general.update": "Oбновление",
+  "general.user": "Пользователь",
+  "general.wallet": "Кошелек"
+}
