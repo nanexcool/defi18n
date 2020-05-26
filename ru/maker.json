@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Коллатерал",
+  "maker.debt_ceiling": "Долговой Потолок",
+  "maker.liquidation_ratio": "Коэффициент Ликвидации",
+  "maker.penalty": "Штраф",
+  "maker.vault": "Свод"
+}
