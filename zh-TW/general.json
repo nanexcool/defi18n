@@ -1,0 +1,22 @@
+{
+  "general.auction": "拍賣",
+  "general.block": "區塊",
+  "general.date": "日期",
+  "general.debt": "債",
+  "general.defi": "去中心化金融",
+  "general.hello": "嗨",
+  "general.network": "網路",
+  "general.password": "密碼",
+  "general.pause": "暫停",
+  "general.price": "價格",
+  "general.ratio": "比",
+  "general.restart": "重新開始",
+  "general.risk": "風險",
+  "general.stablecoin": "穩定幣",
+  "general.supply": "供給量",
+  "general.synchronizing": "同步中",
+  "general.total": "總共",
+  "general.update": "更新",
+  "general.user": "使用者",
+  "general.wallet": "錢包"
+}
