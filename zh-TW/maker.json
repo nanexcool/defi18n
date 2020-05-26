@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "抵押品",
+  "maker.debt_ceiling": "債務上限",
+  "maker.liquidation_ratio": "清算比",
+  "maker.penalty": "罰款",
+  "maker.vault": "金庫"
+}
