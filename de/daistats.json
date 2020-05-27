@@ -3,10 +3,10 @@
   "daistats.auto_updating": "Auto-Aktualisierung",
   "daistats.block": "Block",
   "daistats.collat_ratio": "Sicherheitenquote",
-  "daistats.dai_brewing": "Dai brewing",
+  "daistats.dai_brewing": "Dai brühen",
   "daistats.dai_from_token": "Dai aus %{token}",
   "daistats.dai_in_dsr": "Dai in DSR",
-  "daistats.dai_savings_rate": "Dai Spar Rate",
+  "daistats.dai_savings_rate": "Dai Sparzins",
   "daistats.dai_surplus_auctions": "Dai Überschuss (Flap) Auktionen",
   "daistats.debt_available_heal": "Zur Heilung verfügbare Schulden (Dai)",
   "daistats.debt_buffer": "Schuldenpuffer",
@@ -25,7 +25,7 @@
   "daistats.system_surplus": "Systemüberschuss",
   "daistats.till_next_flap": "Zeit bis zur nächsten Flap",
   "daistats.token_ceiling": "%{token} Obergrenze (in Dai)",
-  "daistats.token_flip_auctions": "%{token} (Flip) Aktion",
+  "daistats.token_flip_auctions": "%{token} (Flip) Auktion",
   "daistats.token_in_dex": "%{token} in %{dex}",
   "daistats.token_locked": "%{token} Gesperrt (in %{token})",
   "daistats.token_price": "%{token} Kurs",
@@ -33,7 +33,7 @@
   "daistats.token_supply": "%{token} Angebot",
   "daistats.token_supply_locked": "%{token} Angebot gesperrt",
   "daistats.total_locked": "Insgesamt gesperrt",
-  "daistats.total_token": "Insgesamt %{token}",
+  "daistats.total_token": "Insgesamte %{token}",
   "daistats.utilization": "Nutzung",
-  "daistats.vaults_opened": "Tresore geöffnet"
+  "daistats.vaults_opened": "Tresore eröffnet"
 }
