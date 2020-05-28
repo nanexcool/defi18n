@@ -1,0 +1,22 @@
+{
+  "general.auction": "Leilão",
+  "general.block": "Bloco",
+  "general.date": "Data",
+  "general.debt": "Débito",
+  "general.defi": "Finanças Descentralizadas",
+  "general.hello": "Olá",
+  "general.network": "Rede",
+  "general.password": "Senha",
+  "general.pause": "Pausa",
+  "general.price": "Preço",
+  "general.ratio": "Taxa",
+  "general.restart": "Reiniciar",
+  "general.risk": "Risco",
+  "general.stablecoin": "Stablecoin",
+  "general.supply": "Oferta",
+  "general.synchronizing": "Sincronizando",
+  "general.total": "Total",
+  "general.update": "Atualizar",
+  "general.user": "Usuário",
+  "general.wallet": "Carteira"
+}
