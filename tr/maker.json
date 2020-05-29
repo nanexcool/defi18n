@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Teminat",
+  "maker.debt_ceiling": "Borç Tavanı",
+  "maker.liquidation_ratio": "Tasfiye oranı",
+  "maker.penalty": "Ceza",
+  "maker.vault": "Kasa"
+}
