@@ -1,0 +1,22 @@
+{
+  "general.auction": "Açık arttırma",
+  "general.block": "Block",
+  "general.date": "Tarih",
+  "general.debt": "Borç",
+  "general.defi": "Merkeziyetsiz finans",
+  "general.hello": "Merhaba",
+  "general.network": "Ağ",
+  "general.password": "Parola",
+  "general.pause": "Durdur",
+  "general.price": "Fiyat",
+  "general.ratio": "Oran",
+  "general.restart": "Tekrar başlat",
+  "general.risk": "Risk",
+  "general.stablecoin": "Stablecoin",
+  "general.supply": "Arz",
+  "general.synchronizing": "Senkronizasyon",
+  "general.total": "Toplam",
+  "general.update": "Güncelleme",
+  "general.user": "Kullanıcı",
+  "general.wallet": "Cüzdan"
+}
