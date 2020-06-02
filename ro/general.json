@@ -1,0 +1,22 @@
+{
+  "general.auction": "Licitatie",
+  "general.block": "Bloc",
+  "general.date": "Data",
+  "general.debt": "Datorie",
+  "general.defi": "Finante descentralizate",
+  "general.hello": "Salut",
+  "general.network": "Retea",
+  "general.password": "Parola",
+  "general.pause": "Pauza",
+  "general.price": "Pret",
+  "general.ratio": "Raport",
+  "general.restart": "Restart",
+  "general.risk": "Risc",
+  "general.stablecoin": "Cryptomoneda stabila",
+  "general.supply": "Numar total",
+  "general.synchronizing": "Sincronizare",
+  "general.total": "Total",
+  "general.update": "Actualizare",
+  "general.user": "User",
+  "general.wallet": "Portofel"
+}
