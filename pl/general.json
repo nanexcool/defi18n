@@ -1,0 +1,22 @@
+{
+  "general.auction": "Aukcja",
+  "general.block": "Blok",
+  "general.date": "Data",
+  "general.debt": "Dług",
+  "general.defi": "Zdecentralizowane Finanse",
+  "general.hello": "Cześć",
+  "general.network": "Sieć",
+  "general.password": "Hasło",
+  "general.pause": "Pauza",
+  "general.price": "Cena",
+  "general.ratio": "Współczynnik",
+  "general.restart": "Restart",
+  "general.risk": "Ryzyka",
+  "general.stablecoin": "Stablecoin",
+  "general.supply": "Podaż",
+  "general.synchronizing": "Synchronizacja",
+  "general.total": "W sumie",
+  "general.update": "Uaktualnij",
+  "general.user": "Uyżtkownik",
+  "general.wallet": "Portfel"
+}

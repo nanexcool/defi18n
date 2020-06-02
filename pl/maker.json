@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Zastaw",
+  "maker.debt_ceiling": "Poziom zadłuenia",
+  "maker.liquidation_ratio": "Współczynnik likwidacji",
+  "maker.penalty": "Kara",
+  "maker.vault": "Skarbiec"
+}
