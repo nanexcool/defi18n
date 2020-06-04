@@ -1,0 +1,22 @@
+{
+  "general.auction": "حراج",
+  "general.block": "بلاک",
+  "general.date": "تاریخ",
+  "general.debt": "بدهی",
+  "general.defi": "اقتصاد غیر متمرکز",
+  "general.hello": "سلام",
+  "general.network": "شبکه",
+  "general.password": "پسورد",
+  "general.pause": "توقف",
+  "general.price": "قیمت",
+  "general.ratio": "نسبت",
+  "general.restart": "راه اندازی مجدد",
+  "general.risk": "ریسک",
+  "general.stablecoin": "کوین پایدار",
+  "general.supply": "عرضه",
+  "general.synchronizing": "در حال همگام سازی",
+  "general.total": "مجموع",
+  "general.update": "به روز رسانی",
+  "general.user": "کاربر",
+  "general.wallet": "کیف پول"
+}

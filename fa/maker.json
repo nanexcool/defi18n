@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "وثیقه",
+  "maker.debt_ceiling": "سقف بدهی",
+  "maker.liquidation_ratio": "نسبت نقدینگی",
+  "maker.penalty": "جریمه",
+  "maker.vault": "گاوصندق"
+}
