@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "담보",
+  "maker.debt_ceiling": "부채 한도",
+  "maker.liquidation_ratio": "청산 비율",
+  "maker.penalty": "페널티",
+  "maker.vault": "볼트"
+}
