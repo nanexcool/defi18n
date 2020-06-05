@@ -1,0 +1,22 @@
+{
+  "general.auction": "Аукціон",
+  "general.block": "Блок",
+  "general.date": "Дата",
+  "general.debt": "Борг",
+  "general.defi": "Децентралізовані фінанси",
+  "general.hello": "Привіт",
+  "general.network": "Мережа",
+  "general.password": "Пароль",
+  "general.pause": "Пауза",
+  "general.price": "Ціна",
+  "general.ratio": "Коефіцієнт",
+  "general.restart": "Перезавантаження",
+  "general.risk": "Ризик",
+  "general.stablecoin": "Стейблкоін",
+  "general.supply": "Обсяг випуску",
+  "general.synchronizing": "Синхронізація",
+  "general.total": "Всього",
+  "general.update": "Оновлення",
+  "general.user": "Користувач",
+  "general.wallet": "Гаманець"
+}
