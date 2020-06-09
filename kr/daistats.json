@@ -4,7 +4,7 @@
   "daistats.block": "블록",
   "daistats.collat_ratio": "담보 비율",
   "daistats.dai_brewing": "브루잉 중인 Dai",
-  "daistats.dai_from_token": "Dai da %{token}",
+  "daistats.dai_from_token": "%{token}에서 파생된 Dai",
   "daistats.dai_in_dsr": "DSR에 예치된 Dai",
   "daistats.dai_savings_rate": "Dai 예치 이자율",
   "daistats.dai_surplus_auctions": "초과 Dai 경매 (Flap)",
