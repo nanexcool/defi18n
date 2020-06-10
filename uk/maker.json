@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Залогове забезпечення",
+  "maker.debt_ceiling": "Борговий ліміт",
+  "maker.liquidation_ratio": "Коефіцієнт ліквідації",
+  "maker.penalty": "Штраф",
+  "maker.vault": "Сховище"
+}

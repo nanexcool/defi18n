@@ -1,0 +1,22 @@
+{
+  "general.auction": "경매",
+  "general.block": "블록",
+  "general.date": "날짜",
+  "general.debt": "부채",
+  "general.defi": "탈중앙 금융",
+  "general.hello": "안녕하세요",
+  "general.network": "네트워크",
+  "general.password": "패스워드",
+  "general.pause": "일시정지",
+  "general.price": "가격",
+  "general.ratio": "비율",
+  "general.restart": "재시작",
+  "general.risk": "리스크",
+  "general.stablecoin": "스테이블코인",
+  "general.supply": "공급량",
+  "general.synchronizing": "동기화 중",
+  "general.total": "총",
+  "general.update": "업데이트",
+  "general.user": "사용자",
+  "general.wallet": "지갑"
+}

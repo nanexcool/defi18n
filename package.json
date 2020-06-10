@@ -1,6 +1,6 @@
 {
   "name": "defi18n",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "A collection of translation strings for dapps.",
   "main": "all.js",
   "directories": {
