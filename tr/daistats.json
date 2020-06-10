@@ -23,7 +23,7 @@
   "daistats.say_hi": "Twitter'da merhaba de!",
   "daistats.surplus_buffer": "Fazlalık tamponu",
   "daistats.system_surplus": "Sistem fazlası",
-  "daistats.till_next_flap": "Bir sonraki mümkün Flap'a kadar",
+  "daistats.till_next_flap": "Bir sonraki Flap'e kalan",
   "daistats.token_ceiling": "%{token} Tavan (in Dai)",
   "daistats.token_flip_auctions": "%{token} (Flip) açık artırma",
   "daistats.token_in_dex": "%{dex}'de %{token}",
