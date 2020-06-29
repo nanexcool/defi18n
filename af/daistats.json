@@ -32,7 +32,7 @@
   "daistats.token_stability_fee": "%{token} Stabiliteits Fooi",
   "daistats.token_supply": "%{token} Voorraad",
   "daistats.token_supply_locked": "%{token} Voorraad Vasgesluit",
-  "daistats.total_locked": "Totale Vasgeslote Waarde",
+  "daistats.total_locked": "Totale Vasgesluite Waarde",
   "daistats.total_token": "Totale Hoeveelheid %{token}",
   "daistats.utilization": "Opgebruik",
   "daistats.vaults_opened": "Kluise Geopen"
