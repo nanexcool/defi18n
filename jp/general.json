@@ -1,0 +1,22 @@
+{
+  "general.auction": "オークション",
+  "general.block": "ブロック",
+  "general.date": "日付",
+  "general.debt": "債務",
+  "general.defi": "分散型金融",
+  "general.hello": "Hello",
+  "general.network": "ネットワーク",
+  "general.password": "パスワード",
+  "general.pause": "停止",
+  "general.price": "価格",
+  "general.ratio": "率",
+  "general.restart": "再開",
+  "general.risk": "リスク",
+  "general.stablecoin": "ステーブルコイン",
+  "general.supply": "供給量",
+  "general.synchronizing": "同期",
+  "general.total": "トータル",
+  "general.update": "アップデート",
+  "general.user": "ユーザー",
+  "general.wallet": "ウォレット"
+}
