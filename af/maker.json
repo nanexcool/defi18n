@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Kollateraal",
+  "maker.debt_ceiling": "Skuld Beperking",
+  "maker.liquidation_ratio": "Likwidasie Verhouding",
+  "maker.penalty": "Boete",
+  "maker.vault": "Kluis"
+}

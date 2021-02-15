@@ -1,0 +1,22 @@
+{
+  "general.auction": "Veiling",
+  "general.block": "Blok",
+  "general.date": "Datum",
+  "general.debt": "Skuld",
+  "general.defi": "Gedesentraliseerde Finansies",
+  "general.hello": "Hallo",
+  "general.network": "Netwerk",
+  "general.password": "Wagwoord",
+  "general.pause": "Stop",
+  "general.price": "Prys",
+  "general.ratio": "Verhouding",
+  "general.restart": "Begin",
+  "general.risk": "Risiko",
+  "general.stablecoin": "Stablecoin",
+  "general.supply": "Voorraad",
+  "general.synchronizing": "Besig om te sinchroniseer",
+  "general.total": "Totaal",
+  "general.update": "Opdateer",
+  "general.user": "Gebruiker",
+  "general.wallet": "Beursie"
+}
