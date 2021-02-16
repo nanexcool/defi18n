@@ -1,0 +1,7 @@
+{
+  "maker.collateral": "Collateral",
+  "maker.debt_ceiling": "سقف الديون",
+  "maker.liquidation_ratio": "نسبة التصفية",
+  "maker.penalty": "عقوبة",
+  "maker.vault": "خزينة"
+}

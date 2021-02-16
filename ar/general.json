@@ -1,0 +1,22 @@
+{
+  "general.auction": "مزاد علني",
+  "general.block": "بلوك",
+  "general.date": "تاريخ",
+  "general.debt": "دين",
+  "general.defi": "التمويل اللامركزي",
+  "general.hello": "مرحبا",
+  "general.network": "شبكة",
+  "general.password": "كلمه السر",
+  "general.pause": "توقف",
+  "general.price": "السعر",
+  "general.ratio": "نسبة",
+  "general.restart": "إعادة التشغيل",
+  "general.risk": "خطر",
+  "general.stablecoin": "عملة مستقرة",
+  "general.supply": "إعتماد مالي",
+  "general.synchronizing": "تزامن",
+  "general.total": "مجموع",
+  "general.update": "تحديث",
+  "general.user": "المستعمل",
+  "general.wallet": "محفظة نقود"
+}
